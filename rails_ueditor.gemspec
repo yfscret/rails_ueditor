@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "国内最好用的富文本UEditor"
   spec.description   = "尝试了很多富文本编辑器，没有个一个特别满意，尤其在图片编辑，回车，开头空两格等功能上，国外的富文本编辑器还是有各种问题，本土化不行，因此搞了这个很本土化的UEditor来用"
-  spec.homepage      = "git@github.com:yfscret/rails_ueditor.git"
+  spec.homepage      = "https://github.com/yfscret/rails_ueditor.git"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 
-  spec.metadata["allowed_push_host"] = "git@github.com:yfscret/rails_ueditor.git"
+  spec.metadata["allowed_push_host"] = "https://github.com/yfscret/rails_ueditor.git"
 
   spec.metadata["homepage_uri"] = spec.homepage
-  spec.metadata["source_code_uri"] = "git@github.com:yfscret/rails_ueditor.git"
-  spec.metadata["changelog_uri"] = "git@github.com:yfscret/rails_ueditor.git"
+  spec.metadata["source_code_uri"] = "https://github.com/yfscret/rails_ueditor.git"
+  spec.metadata["changelog_uri"] = "https://github.com/yfscret/rails_ueditor.git"
 
   # Specify which files should be added to the gem when it is released.
   # The `git ls-files -z` loads the files in the RubyGem that have been added into git.
