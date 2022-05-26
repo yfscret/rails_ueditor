@@ -5,8 +5,8 @@ require_relative "lib/rails_ueditor/version"
 Gem::Specification.new do |spec|
   spec.name          = "rails_ueditor"
   spec.version       = RailsUeditor::VERSION
-  spec.authors       = ["yfscret"]
-  spec.email         = ["305667862@qq.com"]
+  spec.authors       = ["Rushboy"]
+  spec.email         = ["yfscret@sina.com"]
 
   spec.summary       = "国内最好用的富文本UEditor"
   spec.description   = "尝试了很多富文本编辑器，没有个一个特别满意，尤其在图片编辑，回车，开头空两格等功能上，国外的富文本编辑器还是有各种问题，本土化不行，因此搞了这个很本土化的UEditor来用"
